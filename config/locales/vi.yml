@@ -1,0 +1,37 @@
+vi:
+  spree:
+    admin:
+      tab:
+        overview: Overview
+    simple_dash:
+      abandoned_carts: Giỏ hàng bị bỏ quên(Abandoned Carts)
+      abandoned_carts_products: Sản phẩm trong giỏ hàng bị bỏ quên (Abandoned Cart Products)
+      abandoned_orders: Đơn hàng bị bỏ quên (Abandoned Orders)
+      best_selling_products: Sản phẩm bán chạy nhất
+      best_selling_taxons: Danh mục bán chạy nhất
+      biggest_spenders: Người chi tiêu nhiều nhất
+      by_day: Theo ngày
+      checkout_steps: Các bước checkout
+      completed_carts: Completed Carts
+      count: Số lần
+      five_biggest_spenders: 5 người chi tiêu nhiều nhất
+      item: Item
+      items: Items
+      last_14_days: Kể từ 14 ngày trước
+      last_5_orders: Kể từ 5 đơn hàng trước
+      last_7_days: Kể từ 7 ngày trước
+      last_month: Kể từ tháng trước
+      last_year: Kể từ năm trước
+      new_users: Người dùng mới
+      ord_qty: Số lượng đơn hàng
+      ord_total: Ord. Total
+      orders: Đơn hàng
+      out_of_stock_products: Sản phẩm hết hàng
+      overview: Overview
+      overview_welcome: Welcome to your store overview, currently we do not have enough data to display the Overview Dashboard. The dashboard will display automatically once the system has sufficent orders to allow generation of the statistics.
+      range: Khoảng
+      this_month: Tháng này(this month)
+      this_year: Năm nay(this year)
+      top_grossing_products: Sản phẩm có tổng doanh thu hàng đầu
+      units: Đơn vị
+      value: Giá trị
